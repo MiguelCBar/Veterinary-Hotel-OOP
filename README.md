@@ -39,4 +39,4 @@ A terminal-based application for managing a veterinary hotel. The interface and 
 
 ## Credits
 
-This project was developed by [Miguel Barbosa](https://github.com/MiguelCBar/) and [Martim Afonso]().
+This project was developed by [Miguel Barbosa](https://github.com/MiguelCBar/) and [Martim Afonso](https://github.com/M4tig/).
